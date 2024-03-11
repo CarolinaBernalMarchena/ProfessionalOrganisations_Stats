@@ -22,6 +22,8 @@ This project consists of the analysis of data from the professional organisation
 5. **npm start** in the main path
 
 
+### Some screenshots from the project
+
 ![image](https://github.com/CarolinaBernalMarchena/ProfessionalOrganisations_Stats/assets/62402017/2a5fc53b-4df9-4489-85b5-203b437e86d6)
 *Statistics of professional organisations, with the possibility of filtering the different associations*
 
