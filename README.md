@@ -13,3 +13,9 @@ This project consists of the analysis of data from the professional organisation
 - **TypeScript**
 - **HTML**
 - **CSS**
+
+## How to start the project locally:
+1. **npm install** in the root directory
+2. **npm install** in /frontend
+3. **npm run build** in /frontend
+4. **npm start** in the main path
