@@ -31,5 +31,5 @@ This project consists of the analysis of data from the professional organisation
 *Graphics of professional associations. The one on the left shows the professional associations created by years, the one on the right shows the professional associations grouped according to the different variables that each organization has in the records (location, postal code...)*
 
 ![image](https://github.com/CarolinaBernalMarchena/ProfessionalOrganisations_Stats/assets/62402017/2b493a21-f9e8-4daf-ba7f-a685d70ddc77)  
-*Integrations, from top to bottom: World languages, statistics of the pokemon Pikachu and integration between two APIs, we filter by year (in purple) the pop music albums published on Spotify and (in blue) the new professional schools created*
+*Integrations, from top to bottom: World languages, statistics of the pokemon Pikachu and integration between two APIs, we filter by year (in purple) the pop music albums published and (in blue) the new professional schools created*
 
